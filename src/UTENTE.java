@@ -55,5 +55,5 @@ public class UTENTE {
 				+ peso + "]";
 	}
 	
-	
+	//ToString() COMENTÁRIO 
 }
