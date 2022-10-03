@@ -18,6 +18,7 @@ public class UTENTE {
 		this.peso = peso;
 	}
 	
+	//Comentario após fazer o 1 commit 
 	public String getNome() {
 		return nome;
 	}
